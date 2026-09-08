@@ -1,1 +1,18 @@
-/* Your CSS here. */
+/* Your CSShere. */
+.box {
+    height: 900px;
+    
+    
+    background-color: #54a6d3;
+    
+   text-align: center;
+}
+
+
+img {
+   width: 150px;
+   height: 150px;
+   background-color: #B6C4C9;
+   display: block;
+   margin: 0 auto;
+}
